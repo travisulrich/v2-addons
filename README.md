@@ -32,6 +32,8 @@
   _Generate beautiful favicons for your statamic page_
 - [Fetch](https://github.com/aryehraber/statamic-fetch) by Aryeh Raber  
   _Allows access to collection entries as JSON directly using URL endpoints or via a simple tag._
+- [Flash](https://github.com/travisulrich/statamic-flash-messages) by Travis Ulrich
+  _Provides tags for setting and retrieving flash messages for the current session._
 - [Getdem](https://github.com/jrc9designstudio/statamic-getdem) by JRC9 Design Studio & Danny Richardson   
   _Lets you filter collection entries by multiple taxonomies as get params that may or may not exist._
 - [Glide Vanity URLs](https://github.com/peda/statamic-glide-vanity-url) by Peter Rainer  
